@@ -31,7 +31,7 @@ Focado especificamente em prevenir o vazamento de informações (oversharing) ao
 
 ## 📋 Pré-requisitos
 
-* **PowerShell 5.1+**
+* **PowerShell 7**
     * Módulo `PnP.PowerShell`
     * Módulo `ImportExcel`
 * **Python 3.x**
